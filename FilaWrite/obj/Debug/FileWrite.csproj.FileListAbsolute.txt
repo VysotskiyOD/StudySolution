@@ -1,0 +1,7 @@
+C:\Users\vysot\OneDrive\Документы\Visual Studio 2015\Projects\StudySolution\FilaWrite\bin\Debug\FilaWrite.dll
+C:\Users\vysot\OneDrive\Документы\Visual Studio 2015\Projects\StudySolution\FilaWrite\bin\Debug\FilaWrite.pdb
+C:\Users\vysot\OneDrive\Документы\Visual Studio 2015\Projects\StudySolution\FilaWrite\bin\Debug\NotifactionSender.dll
+C:\Users\vysot\OneDrive\Документы\Visual Studio 2015\Projects\StudySolution\FilaWrite\bin\Debug\NotifactionSender.pdb
+C:\Users\vysot\OneDrive\Документы\Visual Studio 2015\Projects\StudySolution\FilaWrite\obj\Debug\FileWrite.csprojResolveAssemblyReference.cache
+C:\Users\vysot\OneDrive\Документы\Visual Studio 2015\Projects\StudySolution\FilaWrite\obj\Debug\FilaWrite.dll
+C:\Users\vysot\OneDrive\Документы\Visual Studio 2015\Projects\StudySolution\FilaWrite\obj\Debug\FilaWrite.pdb

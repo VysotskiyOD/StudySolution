@@ -1,0 +1,5 @@
+c:\users\vysot\onedrive\документы\visual studio 2015\Projects\StudySolution\NotifactionSender\bin\Debug\NotifactionSender.dll
+c:\users\vysot\onedrive\документы\visual studio 2015\Projects\StudySolution\NotifactionSender\bin\Debug\NotifactionSender.pdb
+c:\users\vysot\onedrive\документы\visual studio 2015\Projects\StudySolution\NotifactionSender\obj\Debug\NotifactionSender.csprojResolveAssemblyReference.cache
+c:\users\vysot\onedrive\документы\visual studio 2015\Projects\StudySolution\NotifactionSender\obj\Debug\NotifactionSender.dll
+c:\users\vysot\onedrive\документы\visual studio 2015\Projects\StudySolution\NotifactionSender\obj\Debug\NotifactionSender.pdb

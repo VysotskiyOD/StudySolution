@@ -1,0 +1,14 @@
+c:\users\vysot\onedrive\документы\visual studio 2015\Projects\StudySolution\NotificationApplication\bin\Debug\NotificationApplication.exe.config
+c:\users\vysot\onedrive\документы\visual studio 2015\Projects\StudySolution\NotificationApplication\obj\Debug\NotificationApplication.csprojResolveAssemblyReference.cache
+c:\users\vysot\onedrive\документы\visual studio 2015\Projects\StudySolution\NotificationApplication\bin\Debug\NotificationApplication.exe
+c:\users\vysot\onedrive\документы\visual studio 2015\Projects\StudySolution\NotificationApplication\bin\Debug\NotificationApplication.pdb
+c:\users\vysot\onedrive\документы\visual studio 2015\Projects\StudySolution\NotificationApplication\bin\Debug\NotifactionSender.dll
+c:\users\vysot\onedrive\документы\visual studio 2015\Projects\StudySolution\NotificationApplication\bin\Debug\NotifactionSender.pdb
+c:\users\vysot\onedrive\документы\visual studio 2015\Projects\StudySolution\NotificationApplication\obj\Debug\NotificationApplication.exe
+c:\users\vysot\onedrive\документы\visual studio 2015\Projects\StudySolution\NotificationApplication\obj\Debug\NotificationApplication.pdb
+c:\users\vysot\onedrive\документы\visual studio 2015\Projects\StudySolution\NotificationApplication\bin\Debug\EmailSender.dll
+c:\users\vysot\onedrive\документы\visual studio 2015\Projects\StudySolution\NotificationApplication\bin\Debug\EmailSender.pdb
+C:\Users\vysot\OneDrive\Документы\Visual Studio 2015\Projects\StudySolution\NotificationApplication\bin\Debug\Persons.dll
+C:\Users\vysot\OneDrive\Документы\Visual Studio 2015\Projects\StudySolution\NotificationApplication\bin\Debug\Persons.pdb
+C:\Users\vysot\OneDrive\Документы\Visual Studio 2015\Projects\StudySolution\NotificationApplication\bin\Debug\FilaWrite.dll
+C:\Users\vysot\OneDrive\Документы\Visual Studio 2015\Projects\StudySolution\NotificationApplication\bin\Debug\FilaWrite.pdb

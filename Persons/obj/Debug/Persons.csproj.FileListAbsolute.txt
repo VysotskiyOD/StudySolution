@@ -1,0 +1,5 @@
+C:\Users\vysot\OneDrive\Документы\Visual Studio 2015\Projects\StudySolution\Persons\bin\Debug\Persons.dll
+C:\Users\vysot\OneDrive\Документы\Visual Studio 2015\Projects\StudySolution\Persons\bin\Debug\Persons.pdb
+C:\Users\vysot\OneDrive\Документы\Visual Studio 2015\Projects\StudySolution\Persons\obj\Debug\Persons.csprojResolveAssemblyReference.cache
+C:\Users\vysot\OneDrive\Документы\Visual Studio 2015\Projects\StudySolution\Persons\obj\Debug\Persons.dll
+C:\Users\vysot\OneDrive\Документы\Visual Studio 2015\Projects\StudySolution\Persons\obj\Debug\Persons.pdb
