@@ -7,8 +7,8 @@
     <ProjectGuid>{4E2342D0-B4B4-4527-911A-DCA9EB18F29A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FilaWrite</RootNamespace>
-    <AssemblyName>FilaWrite</AssemblyName>
+    <RootNamespace>FileWriter</RootNamespace>
+    <AssemblyName>FileWriter</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -40,7 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FileWrite.cs" />
+    <Compile Include="FileWriter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

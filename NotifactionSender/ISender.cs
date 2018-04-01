@@ -8,6 +8,6 @@ namespace NotifactionSender
 {
     public interface ISender
     {
-        void Send(string Message);
+        void Send(string message);
     }
 }
