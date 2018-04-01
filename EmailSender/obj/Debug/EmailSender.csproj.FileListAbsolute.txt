@@ -1,9 +1,0 @@
-c:\users\vysot\onedrive\документы\visual studio 2015\Projects\StudySolution\EmailSender\bin\Debug\EmailSender.dll
-c:\users\vysot\onedrive\документы\visual studio 2015\Projects\StudySolution\EmailSender\bin\Debug\EmailSender.pdb
-c:\users\vysot\onedrive\документы\visual studio 2015\Projects\StudySolution\EmailSender\bin\Debug\NotifactionSender.dll
-c:\users\vysot\onedrive\документы\visual studio 2015\Projects\StudySolution\EmailSender\bin\Debug\NotifactionSender.pdb
-c:\users\vysot\onedrive\документы\visual studio 2015\Projects\StudySolution\EmailSender\obj\Debug\EmailSender.dll
-c:\users\vysot\onedrive\документы\visual studio 2015\Projects\StudySolution\EmailSender\obj\Debug\EmailSender.pdb
-C:\Users\vysot\OneDrive\Документы\Visual Studio 2015\Projects\StudySolution\EmailSender\obj\Debug\EmailSender.csprojResolveAssemblyReference.cache
-C:\Users\vysot\OneDrive\Документы\Visual Studio 2015\Projects\StudySolution\EmailSender\bin\Debug\Persons.dll
-C:\Users\vysot\OneDrive\Документы\Visual Studio 2015\Projects\StudySolution\EmailSender\bin\Debug\Persons.pdb

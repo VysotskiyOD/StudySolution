@@ -54,9 +54,9 @@
       <Project>{9213290a-b9f6-458b-884c-7dc766c8120f}</Project>
       <Name>EmailSender</Name>
     </ProjectReference>
-    <ProjectReference Include="..\FilaWrite\FileWrite.csproj">
+    <ProjectReference Include="..\FileWriter\FileWriter.csproj">
       <Project>{4e2342d0-b4b4-4527-911a-dca9eb18f29a}</Project>
-      <Name>FileWrite</Name>
+      <Name>FileWriter</Name>
     </ProjectReference>
     <ProjectReference Include="..\NotifactionSender\NotifactionSender.csproj">
       <Project>{4e97f80c-e4b9-468c-8a43-74276fec5b56}</Project>
